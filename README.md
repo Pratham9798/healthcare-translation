@@ -25,7 +25,7 @@ Follow the steps below to set up the project locally:
 ### 1. Clone the repository
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/your-username/healthcare-translation-app.git
+git clone https://github.com/your-username/healthcare-translation.git
 
 cd healthcare-translation-app
 npm install
